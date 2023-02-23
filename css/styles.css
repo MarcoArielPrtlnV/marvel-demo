@@ -1,0 +1,16 @@
+body {
+
+    background-color: #2F4F4F;
+    color: #fff;
+}
+
+.marvel-logo {
+
+    width: 15%;
+}
+
+img.img-thumbnail {
+
+    width: 80%;
+    height: 80%;
+}
